@@ -6,7 +6,7 @@
 
 13+ years in Emergency Medical Services operations, now building dashboards and careers with the same rigor.
 
-[careerdatasolutions.com](https://careerdatasolutions.com) · Nairobi, Kenya — working with clients worldwide
+[careerdatasolutions.com](https://careerdatasolutions.com) · Nairobi, Kenya, working with clients worldwide
 
 **[Book a discovery call](https://careerdatasolutions.com/data/contact)** · **[WhatsApp](https://wa.me/254791910398)** · kabiru@careerdatasolutions.com
 
@@ -16,11 +16,11 @@
 
 ## What I Do
 
-I run **[CareerDataSolutions](https://careerdatasolutions.com)** — built around one belief: every service should solve a real, provable need, not a trend.
+I run **[CareerDataSolutions](https://careerdatasolutions.com)**, built around one belief: every service should solve a real, provable need, not a trend.
 
 **📊 Data Analytics**
-- Custom Power BI dashboards built from existing business data — sales, operations, HR, finance
-- Excel automation — the manual weekly report, rebuilt so it updates itself
+- Custom Power BI dashboards built from existing business data: sales, operations, HR, finance
+- Excel automation, so the manual weekly report updates itself instead of getting rebuilt by hand
 - Data cleaning and structuring for messy or scattered multi-source data
 - Forecasting and performance analysis for planning and budgeting decisions
 
@@ -38,9 +38,9 @@ I run **[CareerDataSolutions](https://careerdatasolutions.com)** — built aroun
 
 > "Data and careers fail for the same reason: no one translated them properly."
 
-13+ years inside Emergency Medical Services operations — an environment where split-second decisions depend on accurate data and clear reporting. That same discipline now shapes every dashboard and every CV delivered: built around the decision or outcome that actually matters, not vanity metrics or templates.
+I spent 13+ years inside Emergency Medical Services operations, where split-second decisions depend on accurate data and clear reporting. That same discipline shapes every dashboard and every CV I deliver: built around the decision or outcome that actually matters, not vanity metrics or templates.
 
-In his current role leading Data Analytics: **8** dashboards deployed (7 departmental + 1 executive) · **2** manual processes digitized and streamlined · **16** months in, still growing.
+In my current role leading Data Analytics, I've deployed 8 dashboards (7 departmental and one executive), digitized and streamlined 2 manual processes, and I'm 16 months in and still growing.
 
 ---
 
@@ -48,7 +48,7 @@ In his current role leading Data Analytics: **8** dashboards deployed (7 departm
 
 ### [St. Xavier Group of Hospitals — Multi-Branch Patient & Revenue Dashboard](https://github.com/kabirunyabwengi/st-xavier-hospital-dashboard)
 
-A 2,600-visit, four-branch hospital dashboard covering admissions, revenue, payer mix, and readmission tracking — built and version-controlled as a Power BI Project (TMDL-based semantic model, fully git-diffable). A live sample of exactly what a Growth Dashboard engagement delivers.
+A 2,600-visit, four-branch hospital dashboard covering admissions, revenue, payer mix, and readmission tracking. It's built and version-controlled as a Power BI Project, with a TMDL-based semantic model that's fully git-diffable, and it's a live sample of what a Growth Dashboard engagement actually delivers.
 
 ---
 
@@ -65,7 +65,7 @@ A 2,600-visit, four-branch hospital dashboard covering admissions, revenue, paye
 
 <div align="center">
 
-**CareerDataSolutions · Nairobi, Kenya — working with clients worldwide**
+**CareerDataSolutions · Nairobi, Kenya, working with clients worldwide**
 
 [careerdatasolutions.com](https://careerdatasolutions.com)
 
