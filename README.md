@@ -2,9 +2,13 @@
 
 # Kabiru Nyabwengi
 
-**Power BI Dashboards · Excel Automation · CV Writing · LinkedIn Optimization**
+**Power BI Dashboards & Analytics · CV Writing & Career Strategy**
 
-[careerdatasolutions.com](https://careerdatasolutions.com) · Nairobi, Kenya
+13+ years in Emergency Medical Services operations, now building dashboards and careers with the same rigor.
+
+[careerdatasolutions.com](https://careerdatasolutions.com) · Nairobi, Kenya — working with clients worldwide
+
+**[Book a discovery call](https://careerdatasolutions.com/data/contact)** · **[WhatsApp](https://wa.me/254791910398)** · kabiru@careerdatasolutions.com
 
 </div>
 
@@ -12,89 +16,56 @@
 
 ## What I Do
 
-I run [CareerDataSolutions](https://careerdatasolutions.com) — a consultancy
-that helps organizations make sense of their data and professionals land
-the roles they are targeting.
+I run **[CareerDataSolutions](https://careerdatasolutions.com)** — built around one belief: every service should solve a real, provable need, not a trend.
 
-Two service tracks. One clear standard of work.
+**📊 Data Analytics**
+- Custom Power BI dashboards built from existing business data — sales, operations, HR, finance
+- Excel automation — the manual weekly report, rebuilt so it updates itself
+- Data cleaning and structuring for messy or scattered multi-source data
+- Forecasting and performance analysis for planning and budgeting decisions
 
-**Data Analytics**
-- Power BI dashboards built across 7 departments including HR, Finance,
-  Operations, Procurement, Business Development, Executive, and PR
-- Excel automation that removes hours of manual reporting every week
-- Healthcare and NGO data reporting
-- KPI frameworks and executive dashboards
+**📄 Career Services**
+- ATS-optimized CVs built to parse cleanly and read well, for both software and recruiter
+- Cover letters and resumes tailored to specific target roles
+- LinkedIn optimization, bundled or standalone
+- Interview coaching and job search strategy
 
-**Career Services**
-- ATS-optimized CVs built for Kenya, UK, US, and Gulf markets
-- LinkedIn profile optimization for recruiter visibility
-- Career coaching and interview preparation
-- Cover letters tailored to specific roles and organizations
+**[Explore Data Services →](https://careerdatasolutions.com/data/services)**  ·  **[Explore Career Services →](https://careerdatasolutions.com/career/services)**
 
 ---
 
 ## Background
 
-12 years coordinating emergency medical services — managing operations,
-building teams, and turning field data into decisions that mattered under
-pressure.
+> "Data and careers fail for the same reason: no one translated them properly."
 
-That experience shapes every dashboard and every CV I deliver.
-I build for how organizations actually work, not how they are supposed
-to work on paper.
+13+ years inside Emergency Medical Services operations — an environment where split-second decisions depend on accurate data and clear reporting. That same discipline now shapes every dashboard and every CV delivered: built around the decision or outcome that actually matters, not vanity metrics or templates.
+
+In his current role leading Data Analytics: **8** dashboards deployed (7 departmental + 1 executive) · **2** manual processes digitized and streamlined · **16** months in, still growing.
 
 ---
 
-## Current Work
+## Featured Build
 
-| Project | Description | Stack |
-|---|---|---|
-| [CareerDataSolutions](https://careerdatasolutions.com) | Full company website |
-| Power BI Dashboards | 7-department operational coverage | Power BI · Excel · SQL |
-| Career Documents | ATS-optimized CVs for local and international markets | — |
+### [St. Xavier Group of Hospitals — Multi-Branch Patient & Revenue Dashboard](https://github.com/kabirunyabwengi/st-xavier-hospital-dashboard)
+
+A 2,600-visit, four-branch hospital dashboard covering admissions, revenue, payer mix, and readmission tracking — built and version-controlled as a Power BI Project (TMDL-based semantic model, fully git-diffable). A live sample of exactly what a Growth Dashboard engagement delivers.
 
 ---
-
-## Packages & Pricing
-
-| Track | Package | Price |
-|---|---|---|
-| Data Analytics | Insight Starter | KES 20,000 / $155 USD |
-| Data Analytics | Analytics Pro | KES 45,000 / $350 USD |
-| Data Analytics | Enterprise Suite | KES 90,000 / $700 USD |
-| Career Services | Career Kickstart | KES 5,500 / $45 USD |
-| Career Services | Career Builder | KES 9,500 / $75 USD |
-| Career Services | Career Pro | KES 15,000 / $120 USD |
-
-Full details at [careerdatasolutions.com/packages](https://careerdatasolutions.com/packages)
-
----
-
-## Skills & Tools
-```
-Power BI · Excel · SQL · DAX · Power Query · VBA
-GitHub · Cal.com
-ATS Optimization · LinkedIn Strategy · Career Coaching
-```
----
-
 
 ## Work With Me
 
-| I need | Start here |
+| I need | Where to start |
 |---|---|
-| A Power BI dashboard or Excel automation | [Book a discovery call](https://careerdatasolutions.com/contact/data) |
-| CV writing or LinkedIn optimization | [Submit your CV for review](https://careerdatasolutions.com/contact/career) |
-| A specific package | [View all packages](https://careerdatasolutions.com/packages) |
+| A Power BI dashboard or Excel automation | [Book a discovery call](https://careerdatasolutions.com/data/contact) |
+| CV writing or LinkedIn optimization | [Submit your CV for review](https://careerdatasolutions.com/career/contact) |
+| Scope tiers & pricing | [Data](https://careerdatasolutions.com/data/packages) · [Career](https://careerdatasolutions.com/career/packages) |
 | A quick question | [careerdatasolutions.com](https://careerdatasolutions.com) |
 
 ---
 
 <div align="center">
 
-**CareerDataSolutions · Nairobi, Kenya**
-
-Data-Driven Insights. Career-Defining Results.
+**CareerDataSolutions · Nairobi, Kenya — working with clients worldwide**
 
 [careerdatasolutions.com](https://careerdatasolutions.com)
 
