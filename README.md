@@ -46,7 +46,7 @@ In my current role leading Data Analytics, I've deployed 8 dashboards (7 departm
 
 ## Featured Build
 
-### [St. Xavier Group of Hospitals — Multi-Branch Patient & Revenue Dashboard](https://github.com/kabirunyabwengi/st-xavier-hospital-dashboard)
+### [St. Xavier Group of Hospitals — Multi-Branch Patient & Revenue Dashboard](https://github.com/kabirunyabwengi/St-Xavier-Group-Of-Hospitals)
 
 A 2,600-visit, four-branch hospital dashboard covering admissions, revenue, payer mix, and readmission tracking. It's built and version-controlled as a Power BI Project, with a TMDL-based semantic model that's fully git-diffable, and it's a live sample of what a Growth Dashboard engagement actually delivers.
 
